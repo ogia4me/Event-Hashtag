@@ -39,3 +39,13 @@ body{
 .menu a:hover{
     color: #9ED2C6;
 }
+
+.button-cont a{
+    padding: 8px 20px;
+    background-color: #54bab9;
+    color: #fff;
+    border-radius: 5px;
+}
+.button-cont a:{
+    background-color: #000;
+}
