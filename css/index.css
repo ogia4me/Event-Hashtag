@@ -4,3 +4,28 @@
     text-decoration: none;
     list-style: none;
 }
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #fff;
+}
+
+/* Navigation Section */
+.navigation{
+    width: 90%;
+    height: 70px;
+    margin: 10px auto;
+    background-color:  #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navigation .logo{
+
+}
+
+.navigation .menu{
+    
+}
