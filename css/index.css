@@ -27,5 +27,15 @@ body{
 }
 
 .navigation .menu{
-    
+
+}
+
+.navigation .menu li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.menu a:hover{
+    color: #9ED2C6;
 }
