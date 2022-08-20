@@ -46,6 +46,6 @@ body{
     color: #fff;
     border-radius: 5px;
 }
-.button-cont a:{
-    background-color: #000;
+.button-cont a:hover{
+    background-color: #9ed2c6;
 }
