@@ -33,7 +33,11 @@ body{
 .navigation .menu li{
     list-style: none;
     display: inline-block;
-    margin-right: 20px;
+    margin-right: 30px;
+}
+
+.menu li a {
+    color: #54bab9;
 }
 
 .menu a:hover{
